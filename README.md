@@ -31,6 +31,11 @@ My personal list of libraries to solve daily business challenges.
 > A robust JSON decoder/encoder with support for schema validation  
 > [https://github.com/webmozart/json](https://github.com/webmozart/json)
 
+# Email
+
+> Small PHP library to valid email addresses using a number of methods  
+> [https://github.com/nojacko/email-validator](https://github.com/nojacko/email-validator)
+
 # Filesystem
 
 > File uploads with validation and storage strategies  
