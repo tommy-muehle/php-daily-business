@@ -66,6 +66,11 @@ My personal list of libraries to solve daily business challenges.
 > PHP version of Google's phone number handling library  
 > [https://github.com/giggsey/libphonenumber-for-php](https://github.com/giggsey/libphonenumber-for-php)
 
+-
+
+> URI manipulation Library  
+> [https://github.com/thephpleague/uri](https://github.com/thephpleague/uri)
+
 # Regex
 
 > A sane interface for php's built in preg_* functions  
