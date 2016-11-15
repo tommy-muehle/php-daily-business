@@ -71,6 +71,11 @@ My personal list of libraries to solve daily business challenges.
 > URI manipulation Library  
 > [https://github.com/thephpleague/uri](https://github.com/thephpleague/uri)
 
+-
+
+> Library allowing thumbnail, snapshot or PDF generation from a url or a html page. 
+> [https://github.com/KnpLabs/snappy](https://github.com/KnpLabs/snappy)
+
 # Regex
 
 > A sane interface for php's built in preg_* functions  
