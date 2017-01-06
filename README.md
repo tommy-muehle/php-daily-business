@@ -91,6 +91,11 @@ My personal list of libraries to solve daily business challenges.
 > A php.ini scanner for best security practices  
 > [https://github.com/psecio/iniscan](https://github.com/psecio/iniscan)
 
+-
+
+> Library to generate random passwords  
+> [https://github.com/hackzilla/password-generator](https://github.com/hackzilla/password-generator)
+
 # Testing
 
 > Mock built-in PHP functions (e.g. time() or rand()) in PHPUnit  
